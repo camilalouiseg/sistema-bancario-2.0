@@ -11,5 +11,4 @@ O objetivo do sistema é simular operações bancárias.
 * Listar Contas
 * Sair
 
-
-<p align="center"><img width="1000" src="sistema-bancario-2.0/screen-capture.gif"></p>
+<p align="center"> <img width="1000" src="./screen-capture (3).gif"> </p>
